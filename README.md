@@ -1,0 +1,2 @@
+# newsovic.github.io
+blog
